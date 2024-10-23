@@ -1,4 +1,4 @@
-## Desafios de Aprendizaje de maquina
+## Desafos PNL
 # Desafío 1: Vectorización de Documentos y Medición de Similaridad
 
 ## Vectorización de Documentos
