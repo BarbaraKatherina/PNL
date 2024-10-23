@@ -1,4 +1,4 @@
-## Desafos PNL
+## Desafios PNL
 # Desafío 1: Vectorización de Documentos y Medición de Similaridad
 
 ## Vectorización de Documentos
